@@ -1,2 +1,4 @@
 # nah-ai
-bruh
+use:
+```npm install```
+```npm start```
